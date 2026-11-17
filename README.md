@@ -1,6 +1,6 @@
-![ChaoscrafterZz — Full-stack development](./profile-header-zinc.svg)
+# ChaoscrafterZz
 
-I build web apps, community tools, and Minecraft mods. I work across interfaces, APIs, databases, and the tools that connect them.
+Full-stack developer building web apps, community tools, and Minecraft integrations.
 
 ## Featured project · Norvexis
 
