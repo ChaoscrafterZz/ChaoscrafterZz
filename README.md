@@ -1,8 +1,9 @@
-<img align="right" width="72" height="72" alt="Norvexis logo" src="./norvexis-icon.png">
-
-# ChaoscrafterZz
-
-Full-stack developer
+<p align="center">
+  <a href="https://github.com/PalmaCity"><img align="left" width="48" height="48" src="./palma-city-icon.png" alt="Palma City Roleplay"></a>
+  <a href="https://github.com/Norvexis"><img align="right" width="48" height="48" src="./norvexis-icon.png" alt="Norvexis"></a>
+  <strong>ChaoscrafterZz</strong><br>
+  Full-stack developer
+</p>
 
 ## Featured project · Norvexis
 
