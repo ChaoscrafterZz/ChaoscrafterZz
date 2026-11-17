@@ -1,3 +1,5 @@
+<img align="right" width="88" height="88" alt="ChaoscrafterZz profile picture" src="https://avatars.githubusercontent.com/u/196400158?s=192&amp;v=4">
+
 # ChaoscrafterZz
 
 Full-stack developer
