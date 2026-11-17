@@ -16,13 +16,15 @@ I contribute to the Norvexis web app and Discord bot, and work on Java integrati
 
 ## Tech stack
 
-![TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Prisma, Discord.js, Java, Kotlin, Python, and Electron](./tech-stack.svg)
+![Tech stack icons](./tech-stack.svg)
+
+TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Prisma, Discord.js, Java, Kotlin, Python, and Electron.
 
 ## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChaoscrafterZz&amp;theme=dark&amp;background=101012&amp;border=27272A&amp;stroke=27272A&amp;ring=86EFAC&amp;fire=86EFAC&amp;currStreakLabel=86EFAC&amp;card_width=680">
-  <img alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com?user=ChaoscrafterZz&amp;theme=default&amp;background=FAFAFA&amp;border=E4E4E7&amp;stroke=E4E4E7&amp;ring=166534&amp;fire=166534&amp;currStreakLabel=166534&amp;card_width=680">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ChaoscrafterZz&amp;theme=dark&amp;background=101827&amp;border=34445E&amp;stroke=34445E&amp;ring=F5B27A&amp;fire=F5B27A&amp;currStreakLabel=F5B27A&amp;card_width=680&amp;disable_animations=true&amp;type=png">
+  <img alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=ChaoscrafterZz&amp;theme=default&amp;background=FFFAF3&amp;border=E7DACA&amp;stroke=E7DACA&amp;ring=8E401B&amp;fire=8E401B&amp;currStreakLabel=8E401B&amp;card_width=680&amp;disable_animations=true&amp;type=png">
 </picture>
 
 [View contributions on GitHub](https://github.com/ChaoscrafterZz#contributions-calendar)
