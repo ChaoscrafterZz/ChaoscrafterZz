@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 315" width="960" height="315" role="img" aria-labelledby="title desc">
+  <title id="title">ChaoscrafterZz — From interface to runtime</title>
+  <desc id="desc">A dark violet and cyan developer banner with an isometric stack of interface, runtime, and tooling layers.</desc>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#19122d"/>
+      <stop offset="1" stop-color="#090d18"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#bd9cff"/>
+      <stop offset="1" stop-color="#72f3db"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#8363d3" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#8363d3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse">
+      <path d="M23 0H0v23" fill="none" stroke="#b4a7ed" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="958" height="313" rx="21"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="315" fill="url(#background)"/>
+    <rect x="600" width="360" height="315" fill="url(#grid)"/>
+    <ellipse cx="766" cy="147" rx="200" ry="166" fill="url(#glow)"/>
+    <path d="M600 0v315" stroke="#aaa0d6" stroke-opacity=".19"/>
+    <g fill="none" stroke-linejoin="round" stroke-width="2.5">
+      <path d="m652 190 111-54 111 54-111 55z" fill="#14152c" stroke="#8a6ada"/>
+      <path d="M652 190v16l111 55 111-55v-16M763 245v16" stroke="#8a6ada"/>
+      <path d="m652 151 111-54 111 54-111 55z" fill="#191d38" stroke="#b08afb"/>
+      <path d="M652 151v16l111 55 111-55v-16M763 206v16" stroke="#b08afb"/>
+      <path d="m652 112 111-54 111 54-111 55z" fill="#1d263e" stroke="url(#accent)"/>
+      <path d="M652 112v16l111 55 111-55v-16M763 167v16" stroke="url(#accent)"/>
+      <path d="m732 99-17 12 17 12m59-24 17 12-17 12m-22-27-13 30" stroke="#83fce2" stroke-linecap="round"/>
+    </g>
+    <g fill="#c1aedf" font-family="monospace" font-size="15" letter-spacing="2">
+      <text x="52" y="65">WEB APPS / DESKTOP / GAME TOOLING</text>
+      <text x="54" y="244" fill="#81eddb" letter-spacing="1">UI  →  RUNTIME  →  TOOLING</text>
+    </g>
+    <text x="49" y="144" fill="#f8f3ff" font-family="system-ui, Segoe UI, sans-serif" font-size="63" font-weight="750">ChaoscrafterZz</text>
+    <text x="53" y="184" fill="#d4cbe6" font-family="system-ui, Segoe UI, sans-serif" font-size="25">From interface to runtime.</text>
+    <rect x="53" y="205" width="105" height="3" rx="1.5" fill="url(#accent)"/>
+  </g>
+  <rect x="1" y="1" width="958" height="313" rx="21" fill="none" stroke="#67598f" stroke-width="2"/>
+</svg>
