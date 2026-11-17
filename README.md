@@ -1,4 +1,4 @@
-![ChaoscrafterZz — Full-stack development](./banner.svg)
+![ChaoscrafterZz — Full-stack development](./profile-header-zinc.svg)
 
 I build web apps, community tools, and Minecraft mods. I work across interfaces, APIs, databases, and the tools that connect them.
 
@@ -23,8 +23,8 @@ TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Prisma, 
 ## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ChaoscrafterZz&amp;theme=dark&amp;background=101827&amp;border=34445E&amp;stroke=34445E&amp;ring=F5B27A&amp;fire=F5B27A&amp;currStreakLabel=F5B27A&amp;card_width=680&amp;disable_animations=true&amp;type=png">
-  <img alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=ChaoscrafterZz&amp;theme=default&amp;background=FFFAF3&amp;border=E7DACA&amp;stroke=E7DACA&amp;ring=8E401B&amp;fire=8E401B&amp;currStreakLabel=8E401B&amp;card_width=680&amp;disable_animations=true&amp;type=png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ChaoscrafterZz&amp;theme=dark&amp;background=18181B&amp;border=27272A&amp;stroke=27272A&amp;ring=71717A&amp;fire=FAFAFA&amp;currStreakLabel=FAFAFA&amp;currStreakNum=FAFAFA&amp;sideNums=FAFAFA&amp;sideLabels=D4D4D8&amp;dates=A1A1AA&amp;border_radius=12&amp;card_width=680&amp;disable_animations=true&amp;type=png">
+  <img alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com/?user=ChaoscrafterZz&amp;theme=default&amp;background=FAFAFA&amp;border=E4E4E7&amp;stroke=E4E4E7&amp;ring=A1A1AA&amp;fire=18181B&amp;currStreakLabel=18181B&amp;currStreakNum=18181B&amp;sideNums=18181B&amp;sideLabels=3F3F46&amp;dates=52525B&amp;border_radius=12&amp;card_width=680&amp;disable_animations=true&amp;type=png">
 </picture>
 
 [View contributions on GitHub](https://github.com/ChaoscrafterZz#contributions-calendar)

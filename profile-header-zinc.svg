@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title">
+  <title id="title">ChaoscrafterZz · Full-stack developer</title>
+  <style>
+    .surface { fill: #fafafa; stroke: #e4e4e7; }
+    .name { fill: #18181b; }
+    .role { fill: #52525b; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #18181b; stroke: #27272a; }
+      .name { fill: #fafafa; }
+      .role { fill: #a1a1aa; }
+    }
+  </style>
+  <rect class="surface" x=".5" y=".5" width="959" height="199" rx="13"/>
+  <g font-family="system-ui, Segoe UI, sans-serif">
+    <text class="name" x="40" y="98" font-size="64" font-weight="650" letter-spacing="-2">ChaoscrafterZz</text>
+    <text class="role" x="43" y="143" font-size="27">Full-stack developer</text>
+  </g>
+</svg>
