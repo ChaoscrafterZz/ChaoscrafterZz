@@ -2,6 +2,10 @@
 
 I build web apps, community tools, and Minecraft mods. I work across interfaces, APIs, databases, and the tools that connect them.
 
+## Featured project · Norvexis
+
+I contribute to the Norvexis web app and Discord bot, and work on Java integrations that connect our tooling to Minecraft. We use TypeScript, Next.js, and React on the web, Prisma for data access, and Discord.js for the bot.
+
 ## What I build
 
 | Area | Work |
@@ -16,9 +20,12 @@ I build web apps, community tools, and Minecraft mods. I work across interfaces,
 
 ## GitHub activity
 
-[![GitHub activity stats for ChaoscrafterZz](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaoscrafterZz&theme=github_dark)](https://github.com/ChaoscrafterZz)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChaoscrafterZz&amp;theme=dark&amp;background=101012&amp;border=27272A&amp;stroke=27272A&amp;ring=86EFAC&amp;fire=86EFAC&amp;currStreakLabel=86EFAC&amp;card_width=680">
+  <img alt="Total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com?user=ChaoscrafterZz&amp;theme=default&amp;background=FAFAFA&amp;border=E4E4E7&amp;stroke=E4E4E7&amp;ring=166534&amp;fire=166534&amp;currStreakLabel=166534&amp;card_width=680">
+</picture>
 
-[![Current GitHub streak, longest streak, and total contributions](https://streak-stats.demolab.com?user=ChaoscrafterZz&theme=dark&background=09090B&border=27272A&stroke=27272A&ring=A1A1AA&fire=FAFAFA&currStreakLabel=FAFAFA)](https://github.com/ChaoscrafterZz#contributions-calendar)
+[View contributions on GitHub](https://github.com/ChaoscrafterZz#contributions-calendar)
 
 ### Top languages
 
