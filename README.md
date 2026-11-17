@@ -1,56 +1,41 @@
-<div align="center">
+![ChaoscrafterZz — Full-stack development](./banner.svg)
 
-![ChaoscrafterZz — From interface to runtime](./banner.svg)
+I build web apps, community tools, and Minecraft mods. I work across interfaces, APIs, databases, and the tools that connect them.
 
-**JavaScript · Desktop applications · Modded Minecraft**
+## What I build
 
-[Featured project](#featured-project) · [Repositories](https://github.com/ChaoscrafterZz?tab=repositories) · [GitHub activity](https://github.com/ChaoscrafterZz#contributions-calendar)
-
-[![GitHub followers](https://img.shields.io/github/followers/ChaoscrafterZz?style=for-the-badge&logo=github&labelColor=19122d&color=72f3db)](https://github.com/ChaoscrafterZz?tab=followers)
-
-</div>
-
-## Hey, I'm ChaoscrafterZz
-
-I like working across the application stack, from what users see and click to the runtime and tooling behind it. My public work on GitHub includes a desktop launcher for modded Minecraft.
+| Area | Work |
+| --- | --- |
+| Web apps | Next.js and React interfaces, Express APIs, and database access with Prisma or Drizzle |
+| Community tooling | Discord bots and dashboards built with TypeScript |
+| Game and desktop tooling | Java-based Minecraft integrations, Kotlin tooling, and Electron apps |
 
 ## Tech stack
 
-![JavaScript, Electron, Node.js, Git, and GitHub](./tech-stack.svg)
+![TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Prisma, Discord.js, Java, Kotlin, Python, and Electron](./tech-stack.svg)
 
-## Featured project
+## GitHub activity
 
-### Launcher · Modded Minecraft desktop app
+[![GitHub activity stats for ChaoscrafterZz](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaoscrafterZz&theme=github_dark)](https://github.com/ChaoscrafterZz)
 
-A JavaScript desktop launcher built with Electron and Node.js. The project brings a desktop interface and the logic needed to launch a modded game into one app.
+[![Current GitHub streak, longest streak, and total contributions](https://streak-stats.demolab.com?user=ChaoscrafterZz&theme=dark&background=09090B&border=27272A&stroke=27272A&ring=A1A1AA&fire=FAFAFA&currStreakLabel=FAFAFA)](https://github.com/ChaoscrafterZz#contributions-calendar)
 
-| Layer | Technology | What it does |
-| :--- | :--- | :--- |
-| Desktop UI | Electron | Hosts the launcher interface |
-| Application runtime | Node.js | Runs the JavaScript behind the desktop app |
-| Game integration | Modded Minecraft | Gives the launcher its purpose and constraints |
+### Top languages
 
-[**Explore the code ↗**](https://github.com/ChaoscrafterZz/Launcher) · [Release history ↗](https://github.com/ChaoscrafterZz/Launcher/releases) · [Upstream project ↗](https://github.com/Luuxis/Selvania-Launcher)
+| Language | Share |
+| --- | ---: |
+| Java | 45% |
+| TypeScript | 41% |
+| CSS | 5% |
+| HTML | 3% |
+| JavaScript | 3% |
+| Other | 3% |
 
-## Beyond the launcher
+Based on GitHub language bytes across 11 selected personal and team repositories. Percentages are rounded. The figures describe repository code, including shared work.
 
-- **Web apps** · Interfaces, API design, and the path from user action to stored data.
-- **Developer tools** · Small utilities that automate repetitive work and make projects easier to use.
-- **Game tooling** · Launchers and companion apps that make modded games easier to get into.
-
-## GitHub stats
-
-[![GitHub stats for ChaoscrafterZz](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaoscrafterZz&theme=tokyonight)](https://github.com/ChaoscrafterZz)
-
-## Contribution snake
+### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaoscrafterZz/ChaoscrafterZz/output/snake-dark.svg">
   <img alt="Animated snake moving across my GitHub contribution calendar" src="https://raw.githubusercontent.com/ChaoscrafterZz/ChaoscrafterZz/output/snake.svg">
 </picture>
-
-## Find me on GitHub
-
-[Public repositories ↗](https://github.com/ChaoscrafterZz?tab=repositories) · [Projects I follow through stars ↗](https://github.com/ChaoscrafterZz?tab=stars)
-
-<!-- Add future app showcases here. Give each app a one-line description, its stack, and a link to its repo or live demo. -->
